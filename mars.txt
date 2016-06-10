@@ -1,0 +1,10 @@
+ls--list
+pwd--where am
+touch--
+nano--
+mkdir--
+cd--
+rm--remove
+mv--move
+cat--look at text in file
+
